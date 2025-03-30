@@ -1,0 +1,61 @@
+<employees>
+   <employee>
+      <id>1</id>
+      <name>John Smith</name>
+      <email>john.smith@company.com</email>
+      <salary>75000.0</salary>
+   </employee>
+   <employee>
+      <id>2</id>
+      <name>Emily Johnson</name>
+      <email>emily.j@company.com</email>
+      <salary>82000.5</salary>
+   </employee>
+   <employee>
+      <id>3</id>
+      <name>Michael Brown</name>
+      <email>michael.b@company.com</email>
+      <salary>68000.0</salary>
+   </employee>
+   <employee>
+      <id>4</id>
+      <name>Sarah Davis</name>
+      <email>sarah.d@company.com</email>
+      <salary>91000.75</salary>
+   </employee>
+   <employee>
+      <id>5</id>
+      <name>Robert Wilson</name>
+      <email>robert.w@company.com</email>
+      <salary>0.0</salary>
+   </employee>
+   <employee>
+      <id>6</id>
+      <name>Jennifer Miller</name>
+      <email>jennifer.m@company.com</email>
+      <salary>72000.0</salary>
+   </employee>
+   <employee>
+      <id>7</id>
+      <name>William Taylor</name>
+      <salary>88000.25</salary>
+   </employee>
+   <employee>
+      <id>8</id>
+      <name>Jessica Anderson</name>
+      <email>jessica.a@company.com</email>
+      <salary>0.0</salary>
+   </employee>
+   <employee>
+      <id>9</id>
+      <name>David Thomas</name>
+      <email>david.t@company.com</email>
+      <salary>79000.5</salary>
+   </employee>
+   <employee>
+      <id>10</id>
+      <name>Lisa Jackson</name>
+      <email>lisa.j@company.com</email>
+      <salary>85000.0</salary>
+   </employee>
+</employees>
