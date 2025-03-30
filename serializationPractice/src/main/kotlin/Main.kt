@@ -35,6 +35,25 @@ fun main() {
         setProperty("ssl", "false")
     }
 
+    /*
+    * Previously in the db I had created such table like so:
+    * CREATE TABLE employees (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    email VARCHAR(100),
+    salary DECIMAL(10, 2)
+    );
+    *
+    * then added some employees data
+    *
+    * INSERT INTO employees (name, email, salary) VALUES
+    ('John Smith', 'john.smith@company.com', 75000.00),
+    ('Emily Johnson', 'emily.j@company.com', 82000.50),
+    ('Michael Brown', 'michael.b@company.com', 68000.00),
+    ('Sarah Davis', 'sarah.d@company.com', 91000.75);
+
+    * */
+
     // Connect to database and query data
     val employees = mutableListOf<Employee>()
 
